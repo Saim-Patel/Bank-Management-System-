@@ -1,4 +1,4 @@
-# Project 10 – Bank Management System
+#  – Bank Management System
 
 **Level:** Intermediate  
 **Language:** C  
